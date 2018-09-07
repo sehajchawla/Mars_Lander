@@ -1,0 +1,6 @@
+time taken:
+
+C = 3.4 seconds without compiler
+C = 0.8 seconds with complier
+
+Python = 5 seconds with compiler

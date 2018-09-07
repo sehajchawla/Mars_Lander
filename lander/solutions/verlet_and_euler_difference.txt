@@ -1,0 +1,2 @@
+
+verlet and euler are different because they are of different orders (first and second). i.e. they ignore different terms.
